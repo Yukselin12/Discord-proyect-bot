@@ -1,0 +1,3 @@
+0 Lugares peligrosos
+1 noboa malo
+2 Lugares seguros
