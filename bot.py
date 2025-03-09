@@ -145,5 +145,5 @@ async def check(ctx):
         await ctx.send("No hemos recibido ningun archivo")
 
 
-bot.run("MTI4NTcxNTQzNDA1Nzg5MTkwMg.GQ6h_w.J9WcY-D4idwRNwaYW5igL_tEra649ImzsJMfeY")
+bot.run("TOKEN")
 
